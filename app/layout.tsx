@@ -5,9 +5,12 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'SatsVerdant',
+  description: 'Turn Waste into Bitcoin — AI-verified recycling that rewards you with sBTC while healing the planet.',
+  generator: 'SatsVerdant',
+  icons: {
+    icon: '/satsverdant-logo.svg',
+  },
 }
 
 export default function RootLayout({
