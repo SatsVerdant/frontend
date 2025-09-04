@@ -153,7 +153,7 @@ const LandingPage = ({ onEnterApp }: { onEnterApp: () => void }) => (
       <div
         className="absolute inset-0 -z-10 opacity-60"
         style={{
-          backgroundImage: `url('/farmers-working-in-green-fields-with-sustainable-a.png')`,
+          backgroundImage: `url('https://mystuffspace.com/wp-content/uploads/2024/06/Recycling-and-Disposal-Challenges.jpg')`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
@@ -1355,7 +1355,7 @@ const SatsVerdant: React.FC = () => {
             <div
               className="absolute inset-0 bg-cover bg-center bg-no-repeat"
               style={{
-                backgroundImage: `url('/farmers-working-in-green-fields-with-sustainable-a.png')`,
+                backgroundImage: `url('https://mystuffspace.com/wp-content/uploads/2024/06/Recycling-and-Disposal-Challenges.jpg')`,
               }}
             />
             <div className="absolute inset-0 bg-gradient-to-b from-background/40 via-background/60 to-background/80" />
